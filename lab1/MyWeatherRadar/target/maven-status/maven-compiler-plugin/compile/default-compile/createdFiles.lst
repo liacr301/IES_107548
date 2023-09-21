@@ -1,0 +1,4 @@
+org/example/WeatherStarter.class
+org/example/ipma_client/IpmaCityForecast.class
+org/example/ipma_client/IpmaService.class
+org/example/ipma_client/CityForecast.class
