@@ -5,7 +5,7 @@
 # --> Docker
 # ---> Wrapping-up
 
-mvn archetype:generate -DgroupId=ua.deti.ies -DartifactId=lab1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=org.example -DartifactId=MyWeatherRadar -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 
 ### Sincronizar o maven
@@ -17,4 +17,4 @@ $ mvn install
 
 ### Correr o projeto
 
-$ mvn compile exec:java -Dexec.mainClass="ua.deti.ies.lab1.App"
+$ mvn compile exec:java -Dexec.mainClass="org.example.WeatherStarter"
