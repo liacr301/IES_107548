@@ -18,3 +18,10 @@ $ mvn install
 ### Correr o projeto
 
 $ mvn compile exec:java -Dexec.mainClass="org.example.WeatherStarter"
+
+### Comandos git
+$ git add .
+$ git commit -m "smt"
+$ git push
+$ git pull
+$ 
