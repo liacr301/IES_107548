@@ -30,7 +30,7 @@ public class JettyExample2 {
     {
         protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
         {
-            String msg = request.getParameter("msg");
+            String msg = request.getParameter("msg");  // ---> buscar parametro ao url
 
             if (msg != null && !msg.isEmpty()) {
                 response.getWriter().println("<h1>" + msg + "</h1>");
