@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lab1/docker/getting-started-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab1/lab1_4/docker/getting-started-app" vcs="Git" />
   </component>
 </project>

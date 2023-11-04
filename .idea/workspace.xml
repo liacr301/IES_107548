@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92d0c024-3b20-477e-a5ab-6b34c68f10cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IES_107548.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IES_107548.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/docker/getting-started-app/src/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/docker/getting-started-app/src/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/lab1_4/docker/getting-started-app" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1_4/docker/getting-started-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/lab1_4/docker/getting-started-app/src/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1_4/docker/getting-started-app/src/static/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "/home/liarc301/Desktop/IES_107548",
+    "last_opened_file_path": "/home/liarc301/Desktop/IES_107548/Lab2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
