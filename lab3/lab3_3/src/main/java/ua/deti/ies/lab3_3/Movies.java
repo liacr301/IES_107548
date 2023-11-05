@@ -19,7 +19,7 @@ public class Movies {
         this.title = title;
     }
 
-       @Id
+    @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public long getId() {
         return this.id;
